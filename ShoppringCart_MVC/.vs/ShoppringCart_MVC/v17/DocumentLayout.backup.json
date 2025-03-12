@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|c:\\workplace\\hutech\\shoppingcart\\shoppringcart_mvc\\shoppringcart_mvc\\views\\staffcontrollers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|solutionrelative:shoppringcart_mvc\\views\\staffcontrollers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|c:\\workplace\\hutech\\shoppingcart\\shoppringcart_mvc\\shoppringcart_mvc\\views\\user\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|solutionrelative:shoppringcart_mvc\\views\\user\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|c:\\workplace\\hutech\\shoppingcart\\shoppringcart_mvc\\shoppringcart_mvc\\controllers\\staffcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|solutionrelative:shoppringcart_mvc\\controllers\\staffcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|c:\\workplace\\hutech\\shoppingcart\\shoppringcart_mvc\\shoppringcart_mvc\\views\\admincontrollers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|solutionrelative:shoppringcart_mvc\\views\\admincontrollers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|c:\\workplace\\hutech\\shoppingcart\\shoppringcart_mvc\\shoppringcart_mvc\\controllers\\admincontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|solutionrelative:shoppringcart_mvc\\controllers\\admincontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|c:\\workplace\\hutech\\shoppingcart\\shoppringcart_mvc\\shoppringcart_mvc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|solutionrelative:shoppringcart_mvc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|c:\\workplace\\hutech\\shoppingcart\\shoppringcart_mvc\\shoppringcart_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|solutionrelative:shoppringcart_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|c:\\workplace\\hutech\\shoppingcart\\shoppringcart_mvc\\shoppringcart_mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72466855-91E3-4B89-8223-09FB4275C224}|ShoppringCart_MVC\\ShoppringCart_MVC.csproj|solutionrelative:shoppringcart_mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,79 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Views\\StaffControllers\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShoppringCart_MVC\\Views\\StaffControllers\\Index.cshtml",
-              "ToolTip": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Views\\StaffControllers\\Index.cshtml",
-              "RelativeToolTip": "ShoppringCart_MVC\\Views\\StaffControllers\\Index.cshtml",
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Views\\User\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "ShoppringCart_MVC\\Views\\User\\EditUser.cshtml",
+              "ToolTip": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Views\\User\\EditUser.cshtml",
+              "RelativeToolTip": "ShoppringCart_MVC\\Views\\User\\EditUser.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T08:36:35.806Z",
+              "WhenOpened": "2025-03-12T09:10:45.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StaffControllers.cs",
-              "DocumentMoniker": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Controllers\\StaffControllers.cs",
-              "RelativeDocumentMoniker": "ShoppringCart_MVC\\Controllers\\StaffControllers.cs",
-              "ToolTip": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Controllers\\StaffControllers.cs",
-              "RelativeToolTip": "ShoppringCart_MVC\\Controllers\\StaffControllers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ShoppringCart_MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ShoppringCart_MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T08:36:18.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Views\\AdminControllers\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShoppringCart_MVC\\Views\\AdminControllers\\Index.cshtml",
-              "ToolTip": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Views\\AdminControllers\\Index.cshtml",
-              "RelativeToolTip": "ShoppringCart_MVC\\Views\\AdminControllers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T08:36:02.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminControllers.cs",
-              "DocumentMoniker": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Controllers\\AdminControllers.cs",
-              "RelativeDocumentMoniker": "ShoppringCart_MVC\\Controllers\\AdminControllers.cs",
-              "ToolTip": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Controllers\\AdminControllers.cs",
-              "RelativeToolTip": "ShoppringCart_MVC\\Controllers\\AdminControllers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T08:35:35.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ShoppringCart_MVC\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ShoppringCart_MVC\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T08:29:58.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShoppringCart_MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ShoppringCart_MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T08:23:34.059Z",
+              "WhenOpened": "2025-03-12T08:58:22.635Z",
               "EditorCaption": ""
             }
           ]
