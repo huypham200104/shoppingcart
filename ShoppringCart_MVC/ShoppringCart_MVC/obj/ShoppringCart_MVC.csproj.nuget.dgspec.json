@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\ShoppringCart_MVC.csproj": {}
+    "E:\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\ShoppringCart_MVC.csproj": {}
   },
   "projects": {
-    "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\ShoppringCart_MVC.csproj": {
+    "E:\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\ShoppringCart_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\ShoppringCart_MVC.csproj",
+        "projectUniqueName": "E:\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\ShoppringCart_MVC.csproj",
         "projectName": "ShoppringCart_MVC",
-        "projectPath": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\ShoppringCart_MVC.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\obj\\",
+        "projectPath": "E:\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\ShoppringCart_MVC.csproj",
+        "packagesPath": "C:\\Users\\Ryoki 40\\.nuget\\packages\\",
+        "outputPath": "E:\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ryoki 40\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+<<<<<<< HEAD
+=======
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.3, )"
@@ -70,6 +72,7 @@
               "target": "Package",
               "version": "[9.0.3, )"
             },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -86,6 +89,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.200, 9.0.200]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

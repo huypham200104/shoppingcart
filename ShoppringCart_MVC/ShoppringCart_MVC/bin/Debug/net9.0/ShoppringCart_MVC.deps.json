@@ -8,16 +8,21 @@
     ".NETCoreApp,Version=v9.0": {
       "ShoppringCart_MVC/1.0.0": {
         "dependencies": {
+<<<<<<< HEAD
+=======
           "Microsoft.EntityFrameworkCore": "9.0.3",
           "Microsoft.EntityFrameworkCore.Design": "9.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "9.0.0"
         },
         "runtime": {
           "ShoppringCart_MVC.dll": {}
         }
       },
+<<<<<<< HEAD
+=======
       "Azure.Core/1.38.0": {
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "7.0.0",
@@ -53,6 +58,7 @@
           }
         }
       },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
       "Humanizer/2.14.1": {
         "dependencies": {
           "Humanizer.Core.af": "2.14.1",
@@ -635,6 +641,8 @@
           }
         }
       },
+<<<<<<< HEAD
+=======
       "Microsoft.Build.Locator/1.7.8": {
         "runtime": {
           "lib/net6.0/Microsoft.Build.Locator.dll": {
@@ -643,6 +651,7 @@
           }
         }
       },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
       "Microsoft.CodeAnalysis.Analyzers/3.3.4": {},
       "Microsoft.CodeAnalysis.AnalyzerUtilities/3.3.0": {
         "runtime": {
@@ -891,7 +900,11 @@
           "Microsoft.CodeAnalysis.Scripting.Common": "4.8.0",
           "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
           "Microsoft.DiaSymReader": "2.0.0",
+<<<<<<< HEAD
+          "System.Text.Json": "7.0.3"
+=======
           "System.Text.Json": "9.0.3"
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
         },
         "runtime": {
           "lib/net7.0/Microsoft.CodeAnalysis.Features.dll": {
@@ -1063,6 +1076,8 @@
           }
         }
       },
+<<<<<<< HEAD
+=======
       "Microsoft.CodeAnalysis.Workspaces.MSBuild/4.8.0": {
         "dependencies": {
           "Microsoft.Build.Framework": "17.10.4",
@@ -1184,6 +1199,7 @@
           }
         }
       },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
       "Microsoft.DiaSymReader/2.0.0": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.DiaSymReader.dll": {
@@ -1201,12 +1217,20 @@
           "Microsoft.CodeAnalysis.Common": "4.8.0",
           "Microsoft.CodeAnalysis.Features": "4.8.0",
           "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
+<<<<<<< HEAD
+          "Microsoft.Extensions.DependencyModel": "9.0.0-rc.2.24473.5",
+=======
           "Microsoft.Extensions.DependencyModel": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
           "NuGet.Packaging": "6.11.0",
           "NuGet.ProjectModel": "6.11.0",
+<<<<<<< HEAD
+          "System.Formats.Asn1": "9.0.0-rc.2.24473.5",
+=======
           "System.Formats.Asn1": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "System.Security.Cryptography.ProtectedData": "8.0.0"
         },
         "runtime": {
@@ -1216,6 +1240,19 @@
           }
         }
       },
+<<<<<<< HEAD
+      "Microsoft.Extensions.DependencyInjection/9.0.0-rc.2.24473.5": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0-rc.2.24473.5"
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0-rc.2.24473.5": {},
+      "Microsoft.Extensions.DependencyModel/9.0.0-rc.2.24473.5": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyModel.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.47305"
+=======
       "Microsoft.EntityFrameworkCore/9.0.3": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Abstractions": "9.0.3",
@@ -1497,6 +1534,7 @@
           "lib/net6.0/Microsoft.IdentityModel.Tokens.dll": {
             "assemblyVersion": "6.35.0.0",
             "fileVersion": "6.35.0.41201"
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           }
         }
       },
@@ -1508,6 +1546,8 @@
           }
         }
       },
+<<<<<<< HEAD
+=======
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
       "Microsoft.SqlServer.Server/1.0.0": {
@@ -1518,6 +1558,7 @@
           }
         }
       },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
       "Microsoft.VisualStudio.Web.CodeGeneration/9.0.0": {
         "dependencies": {
           "Humanizer": "2.14.1",
@@ -1530,14 +1571,23 @@
           "Microsoft.CodeAnalysis.Features": "4.8.0",
           "Microsoft.CodeAnalysis.Razor": "6.0.24",
           "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
+<<<<<<< HEAD
+          "Microsoft.Extensions.DependencyInjection": "9.0.0-rc.2.24473.5",
+          "Microsoft.Extensions.DependencyModel": "9.0.0-rc.2.24473.5",
+=======
           "Microsoft.Extensions.DependencyInjection": "9.0.3",
           "Microsoft.Extensions.DependencyModel": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": "9.0.0",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
           "NuGet.Packaging": "6.11.0",
           "NuGet.ProjectModel": "6.11.0",
+<<<<<<< HEAD
+          "System.Formats.Asn1": "9.0.0-rc.2.24473.5",
+=======
           "System.Formats.Asn1": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "System.Security.Cryptography.ProtectedData": "8.0.0"
         },
         "runtime": {
@@ -1559,14 +1609,23 @@
           "Microsoft.CodeAnalysis.Features": "4.8.0",
           "Microsoft.CodeAnalysis.Razor": "6.0.24",
           "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
+<<<<<<< HEAD
+          "Microsoft.Extensions.DependencyInjection": "9.0.0-rc.2.24473.5",
+          "Microsoft.Extensions.DependencyModel": "9.0.0-rc.2.24473.5",
+=======
           "Microsoft.Extensions.DependencyInjection": "9.0.3",
           "Microsoft.Extensions.DependencyModel": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "Microsoft.VisualStudio.Web.CodeGeneration.Templating": "9.0.0",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
           "NuGet.Packaging": "6.11.0",
           "NuGet.ProjectModel": "6.11.0",
+<<<<<<< HEAD
+          "System.Formats.Asn1": "9.0.0-rc.2.24473.5",
+=======
           "System.Formats.Asn1": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "System.Security.Cryptography.ProtectedData": "8.0.0"
         },
         "runtime": {
@@ -1589,14 +1648,23 @@
           "Microsoft.CodeAnalysis.Razor": "6.0.24",
           "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
           "Microsoft.DotNet.Scaffolding.Shared": "9.0.0",
+<<<<<<< HEAD
+          "Microsoft.Extensions.DependencyInjection": "9.0.0-rc.2.24473.5",
+          "Microsoft.Extensions.DependencyModel": "9.0.0-rc.2.24473.5",
+=======
           "Microsoft.Extensions.DependencyInjection": "9.0.3",
           "Microsoft.Extensions.DependencyModel": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": "9.0.0",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
           "NuGet.Packaging": "6.11.0",
           "NuGet.ProjectModel": "6.11.0",
+<<<<<<< HEAD
+          "System.Formats.Asn1": "9.0.0-rc.2.24473.5",
+=======
           "System.Formats.Asn1": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "System.Security.Cryptography.ProtectedData": "8.0.0"
         },
         "runtime": {
@@ -1619,14 +1687,23 @@
           "Microsoft.CodeAnalysis.Razor": "6.0.24",
           "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
           "Microsoft.DotNet.Scaffolding.Shared": "9.0.0",
+<<<<<<< HEAD
+          "Microsoft.Extensions.DependencyInjection": "9.0.0-rc.2.24473.5",
+          "Microsoft.Extensions.DependencyModel": "9.0.0-rc.2.24473.5",
+=======
           "Microsoft.Extensions.DependencyInjection": "9.0.3",
           "Microsoft.Extensions.DependencyModel": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "Microsoft.VisualStudio.Web.CodeGeneration.Core": "9.0.0",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
           "NuGet.Packaging": "6.11.0",
           "NuGet.ProjectModel": "6.11.0",
+<<<<<<< HEAD
+          "System.Formats.Asn1": "9.0.0-rc.2.24473.5",
+=======
           "System.Formats.Asn1": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "System.Security.Cryptography.ProtectedData": "8.0.0"
         },
         "runtime": {
@@ -1648,13 +1725,21 @@
           "Microsoft.CodeAnalysis.Features": "4.8.0",
           "Microsoft.CodeAnalysis.Razor": "6.0.24",
           "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
+<<<<<<< HEAD
+          "Microsoft.Extensions.DependencyModel": "9.0.0-rc.2.24473.5",
+=======
           "Microsoft.Extensions.DependencyModel": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "Microsoft.VisualStudio.Web.CodeGeneration.Utils": "9.0.0",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
           "NuGet.Packaging": "6.11.0",
           "NuGet.ProjectModel": "6.11.0",
+<<<<<<< HEAD
+          "System.Formats.Asn1": "9.0.0-rc.2.24473.5",
+=======
           "System.Formats.Asn1": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "System.Security.Cryptography.ProtectedData": "8.0.0"
         },
         "runtime": {
@@ -1675,12 +1760,20 @@
           "Microsoft.CodeAnalysis.Features": "4.8.0",
           "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
           "Microsoft.DotNet.Scaffolding.Shared": "9.0.0",
+<<<<<<< HEAD
+          "Microsoft.Extensions.DependencyModel": "9.0.0-rc.2.24473.5",
+=======
           "Microsoft.Extensions.DependencyModel": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
           "NuGet.Packaging": "6.11.0",
           "NuGet.ProjectModel": "6.11.0",
+<<<<<<< HEAD
+          "System.Formats.Asn1": "9.0.0-rc.2.24473.5",
+=======
           "System.Formats.Asn1": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "System.Security.Cryptography.ProtectedData": "8.0.0"
         },
         "runtime": {
@@ -1703,14 +1796,23 @@
           "Microsoft.CodeAnalysis.Razor": "6.0.24",
           "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
           "Microsoft.DotNet.Scaffolding.Shared": "9.0.0",
+<<<<<<< HEAD
+          "Microsoft.Extensions.DependencyInjection": "9.0.0-rc.2.24473.5",
+          "Microsoft.Extensions.DependencyModel": "9.0.0-rc.2.24473.5",
+=======
           "Microsoft.Extensions.DependencyInjection": "9.0.3",
           "Microsoft.Extensions.DependencyModel": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "Microsoft.VisualStudio.Web.CodeGeneration": "9.0.0",
           "Mono.TextTemplating": "3.0.0",
           "Newtonsoft.Json": "13.0.3",
           "NuGet.Packaging": "6.11.0",
           "NuGet.ProjectModel": "6.11.0",
+<<<<<<< HEAD
+          "System.Formats.Asn1": "9.0.0-rc.2.24473.5",
+=======
           "System.Formats.Asn1": "9.0.3",
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
           "System.Security.Cryptography.ProtectedData": "8.0.0"
         },
         "runtime": {
@@ -1839,6 +1941,8 @@
           }
         }
       },
+<<<<<<< HEAD
+=======
       "System.ClientModel/1.0.0": {
         "dependencies": {
           "System.Memory.Data": "1.0.2",
@@ -1851,6 +1955,7 @@
           }
         }
       },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
       "System.CodeDom/6.0.0": {
         "runtime": {
           "lib/net6.0/System.CodeDom.dll": {
@@ -1933,6 +2038,11 @@
         }
       },
       "System.Data.DataSetExtensions/4.5.0": {},
+<<<<<<< HEAD
+      "System.Diagnostics.EventLog/8.0.0": {},
+      "System.Formats.Asn1/9.0.0-rc.2.24473.5": {},
+      "System.IO.Pipelines/7.0.0": {},
+=======
       "System.Diagnostics.DiagnosticSource/6.0.1": {
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
@@ -1967,6 +2077,7 @@
         }
       },
       "System.Numerics.Vectors/4.5.0": {},
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
       "System.Reflection.Metadata/8.0.0": {
         "dependencies": {
           "System.Collections.Immutable": "8.0.0"
@@ -1984,6 +2095,12 @@
           }
         }
       },
+<<<<<<< HEAD
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "System.Security.Cryptography.Pkcs/6.0.4": {
+        "dependencies": {
+          "System.Formats.Asn1": "9.0.0-rc.2.24473.5"
+=======
       "System.Runtime/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -2018,6 +2135,7 @@
       "System.Security.Cryptography.Pkcs/6.0.4": {
         "dependencies": {
           "System.Formats.Asn1": "9.0.3"
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
         }
       },
       "System.Security.Cryptography.ProtectedData/8.0.0": {
@@ -2029,6 +2147,16 @@
         }
       },
       "System.Security.Principal.Windows/5.0.0": {},
+<<<<<<< HEAD
+      "System.Text.Encodings.Web/7.0.0": {},
+      "System.Text.Json/7.0.3": {
+        "dependencies": {
+          "System.Text.Encodings.Web": "7.0.0"
+        }
+      },
+      "System.Threading.Channels/7.0.0": {},
+      "System.Threading.Tasks.Dataflow/8.0.0": {}
+=======
       "System.Text.Encoding/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -2050,6 +2178,7 @@
       "System.Threading.Channels/7.0.0": {},
       "System.Threading.Tasks.Dataflow/8.0.0": {},
       "System.Threading.Tasks.Extensions/4.5.4": {}
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     }
   },
   "libraries": {
@@ -2058,6 +2187,8 @@
       "serviceable": false,
       "sha512": ""
     },
+<<<<<<< HEAD
+=======
     "Azure.Core/1.38.0": {
       "type": "package",
       "serviceable": true,
@@ -2072,6 +2203,7 @@
       "path": "azure.identity/1.11.4",
       "hashPath": "azure.identity.1.11.4.nupkg.sha512"
     },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     "Humanizer/2.14.1": {
       "type": "package",
       "serviceable": true,
@@ -2450,6 +2582,8 @@
       "path": "microsoft.build.framework/17.10.4",
       "hashPath": "microsoft.build.framework.17.10.4.nupkg.sha512"
     },
+<<<<<<< HEAD
+=======
     "Microsoft.Build.Locator/1.7.8": {
       "type": "package",
       "serviceable": true,
@@ -2457,6 +2591,7 @@
       "path": "microsoft.build.locator/1.7.8",
       "hashPath": "microsoft.build.locator.1.7.8.nupkg.sha512"
     },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     "Microsoft.CodeAnalysis.Analyzers/3.3.4": {
       "type": "package",
       "serviceable": true,
@@ -2534,6 +2669,8 @@
       "path": "microsoft.codeanalysis.workspaces.common/4.8.0",
       "hashPath": "microsoft.codeanalysis.workspaces.common.4.8.0.nupkg.sha512"
     },
+<<<<<<< HEAD
+=======
     "Microsoft.CodeAnalysis.Workspaces.MSBuild/4.8.0": {
       "type": "package",
       "serviceable": true,
@@ -2562,6 +2699,7 @@
       "path": "microsoft.data.sqlclient.sni.runtime/5.1.1",
       "hashPath": "microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512"
     },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     "Microsoft.DiaSymReader/2.0.0": {
       "type": "package",
       "serviceable": true,
@@ -2576,6 +2714,28 @@
       "path": "microsoft.dotnet.scaffolding.shared/9.0.0",
       "hashPath": "microsoft.dotnet.scaffolding.shared.9.0.0.nupkg.sha512"
     },
+<<<<<<< HEAD
+    "Microsoft.Extensions.DependencyInjection/9.0.0-rc.2.24473.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FHb7uxiX/08FBBtwat7fiBdQltxst1Farux6Ifn1dfke+D8h1rcDj1ZbKzNB9SvLh1XmEXNYmoWGkTjt1mVzXg==",
+      "path": "microsoft.extensions.dependencyinjection/9.0.0-rc.2.24473.5",
+      "hashPath": "microsoft.extensions.dependencyinjection.9.0.0-rc.2.24473.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0-rc.2.24473.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T8oVF5Kz+J5IVagQAqcFFUrc/JrjaSvpACSm+t6cNolBX1S41PZVe3JLa3bxKnz0GTkUfSPPIkaekLmpAmHu3Q==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.0-rc.2.24473.5",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.0-rc.2.24473.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyModel/9.0.0-rc.2.24473.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y+L5r4bqbSbhTVVQ8wt7AaO8vtB2ZgEfzI1gN3Ia/vBIsfECOQK8bDItAi7ikb1kk9c0unDnJnM08BuO59ydEQ==",
+      "path": "microsoft.extensions.dependencymodel/9.0.0-rc.2.24473.5",
+      "hashPath": "microsoft.extensions.dependencymodel.9.0.0-rc.2.24473.5.nupkg.sha512"
+=======
     "Microsoft.EntityFrameworkCore/9.0.3": {
       "type": "package",
       "serviceable": true,
@@ -2750,6 +2910,7 @@
       "sha512": "sha512-RN7lvp7s3Boucg1NaNAbqDbxtlLj5Qeb+4uSS1TeK5FSBVM40P4DKaTKChT43sHyKfh7V0zkrMph6DdHvyA4bg==",
       "path": "microsoft.identitymodel.tokens/6.35.0",
       "hashPath": "microsoft.identitymodel.tokens.6.35.0.nupkg.sha512"
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     },
     "Microsoft.NET.StringTools/17.10.4": {
       "type": "package",
@@ -2758,6 +2919,8 @@
       "path": "microsoft.net.stringtools/17.10.4",
       "hashPath": "microsoft.net.stringtools.17.10.4.nupkg.sha512"
     },
+<<<<<<< HEAD
+=======
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
       "serviceable": true,
@@ -2779,6 +2942,7 @@
       "path": "microsoft.sqlserver.server/1.0.0",
       "hashPath": "microsoft.sqlserver.server.1.0.0.nupkg.sha512"
     },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     "Microsoft.VisualStudio.Web.CodeGeneration/9.0.0": {
       "type": "package",
       "serviceable": true,
@@ -2905,6 +3069,8 @@
       "path": "nuget.versioning/6.11.0",
       "hashPath": "nuget.versioning.6.11.0.nupkg.sha512"
     },
+<<<<<<< HEAD
+=======
     "System.ClientModel/1.0.0": {
       "type": "package",
       "serviceable": true,
@@ -2912,6 +3078,7 @@
       "path": "system.clientmodel/1.0.0",
       "hashPath": "system.clientmodel.1.0.0.nupkg.sha512"
     },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     "System.CodeDom/6.0.0": {
       "type": "package",
       "serviceable": true,
@@ -2982,6 +3149,8 @@
       "path": "system.data.datasetextensions/4.5.0",
       "hashPath": "system.data.datasetextensions.4.5.0.nupkg.sha512"
     },
+<<<<<<< HEAD
+=======
     "System.Diagnostics.DiagnosticSource/6.0.1": {
       "type": "package",
       "serviceable": true,
@@ -2989,6 +3158,7 @@
       "path": "system.diagnostics.diagnosticsource/6.0.1",
       "hashPath": "system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512"
     },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     "System.Diagnostics.EventLog/8.0.0": {
       "type": "package",
       "serviceable": true,
@@ -2996,6 +3166,14 @@
       "path": "system.diagnostics.eventlog/8.0.0",
       "hashPath": "system.diagnostics.eventlog.8.0.0.nupkg.sha512"
     },
+<<<<<<< HEAD
+    "System.Formats.Asn1/9.0.0-rc.2.24473.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T7T1kH5MU5pd3jo+lPxKOvcUrvsNiGJpOVOM641CRWAy8HRdk55fmmOqcGYZQ2p8+qDOeMUikQyi5dbNVGEJjg==",
+      "path": "system.formats.asn1/9.0.0-rc.2.24473.5",
+      "hashPath": "system.formats.asn1.9.0.0-rc.2.24473.5.nupkg.sha512"
+=======
     "System.Formats.Asn1/9.0.3": {
       "type": "package",
       "serviceable": true,
@@ -3009,6 +3187,7 @@
       "sha512": "sha512-yxGIQd3BFK7F6S62/7RdZk3C/mfwyVxvh6ngd1VYMBmbJ1YZZA9+Ku6suylVtso0FjI0wbElpJ0d27CdsyLpBQ==",
       "path": "system.identitymodel.tokens.jwt/6.35.0",
       "hashPath": "system.identitymodel.tokens.jwt.6.35.0.nupkg.sha512"
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     },
     "System.IO.Pipelines/7.0.0": {
       "type": "package",
@@ -3017,6 +3196,8 @@
       "path": "system.io.pipelines/7.0.0",
       "hashPath": "system.io.pipelines.7.0.0.nupkg.sha512"
     },
+<<<<<<< HEAD
+=======
     "System.Memory/4.5.4": {
       "type": "package",
       "serviceable": true,
@@ -3038,6 +3219,7 @@
       "path": "system.numerics.vectors/4.5.0",
       "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
     },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     "System.Reflection.Metadata/8.0.0": {
       "type": "package",
       "serviceable": true,
@@ -3052,6 +3234,8 @@
       "path": "system.reflection.metadataloadcontext/8.0.0",
       "hashPath": "system.reflection.metadataloadcontext.8.0.0.nupkg.sha512"
     },
+<<<<<<< HEAD
+=======
     "System.Runtime/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -3066,6 +3250,7 @@
       "path": "system.runtime.caching/6.0.0",
       "hashPath": "system.runtime.caching.6.0.0.nupkg.sha512"
     },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     "System.Runtime.CompilerServices.Unsafe/6.0.0": {
       "type": "package",
       "serviceable": true,
@@ -3073,6 +3258,8 @@
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
+<<<<<<< HEAD
+=======
     "System.Security.Cryptography.Cng/5.0.0": {
       "type": "package",
       "serviceable": true,
@@ -3080,6 +3267,7 @@
       "path": "system.security.cryptography.cng/5.0.0",
       "hashPath": "system.security.cryptography.cng.5.0.0.nupkg.sha512"
     },
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     "System.Security.Cryptography.Pkcs/6.0.4": {
       "type": "package",
       "serviceable": true,
@@ -3101,6 +3289,21 @@
       "path": "system.security.principal.windows/5.0.0",
       "hashPath": "system.security.principal.windows.5.0.0.nupkg.sha512"
     },
+<<<<<<< HEAD
+    "System.Text.Encodings.Web/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OP6umVGxc0Z0MvZQBVigj4/U31Pw72ITihDWP9WiWDm+q5aoe0GaJivsfYGq53o6dxH7DcXWiCTl7+0o2CGdmg==",
+      "path": "system.text.encodings.web/7.0.0",
+      "hashPath": "system.text.encodings.web.7.0.0.nupkg.sha512"
+    },
+    "System.Text.Json/7.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AyjhwXN1zTFeIibHimfJn6eAsZ7rTBib79JQpzg8WAuR/HKDu9JGNHTuu3nbbXQ/bgI+U4z6HtZmCHNXB1QXrQ==",
+      "path": "system.text.json/7.0.3",
+      "hashPath": "system.text.json.7.0.3.nupkg.sha512"
+=======
     "System.Text.Encoding/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -3128,6 +3331,7 @@
       "sha512": "sha512-r2JRkLjsYrq5Dpo7+y3Wa73OfirZPdVhxiTJWwZ+oJM7FOAe0LkM3GlH+pgkNRdd1G1kwUbmRCdmh4uoaWwu1g==",
       "path": "system.text.json/9.0.3",
       "hashPath": "system.text.json.9.0.3.nupkg.sha512"
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     },
     "System.Threading.Channels/7.0.0": {
       "type": "package",
@@ -3142,6 +3346,8 @@
       "sha512": "sha512-7V0I8tPa9V7UxMx/+7DIwkhls5ouaEMQx6l/GwGm1Y8kJQ61On9B/PxCXFLbgu5/C47g0BP2CUYs+nMv1+Oaqw==",
       "path": "system.threading.tasks.dataflow/8.0.0",
       "hashPath": "system.threading.tasks.dataflow.8.0.0.nupkg.sha512"
+<<<<<<< HEAD
+=======
     },
     "System.Threading.Tasks.Extensions/4.5.4": {
       "type": "package",
@@ -3149,6 +3355,7 @@
       "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
       "path": "system.threading.tasks.extensions/4.5.4",
       "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+>>>>>>> b8aec065a0160fb5e79ce64e59865775e668a0cb
     }
   }
 }
