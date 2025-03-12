@@ -1,0 +1,111 @@
+﻿<style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    .sidebar {
+        height: 100vh;
+        position: fixed;
+        top: 50px;
+        left: 0;
+        width: 240px;
+        background-color: #6c757d;
+        padding-top: 20px;
+        transition: width 0.3s;
+    }
+
+        .sidebar .nav-link {
+            color: white;
+            padding: 10px 20px;
+        }
+
+            .sidebar .nav-link:hover {
+                background-color: #5a6268;
+                border-radius: 5px;
+            }
+
+            .sidebar .nav-link.active {
+                background-color: #17a2b8;
+                border-radius: 5px;
+            }
+
+    .main-content {
+        margin-left: 240px;
+        padding: 20px;
+        transition: margin-left 0.3s;
+    }
+
+    .topbar {
+        width: 100%;
+        background-color: #17a2b8;
+        padding: 10px;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 50px;
+        z-index: 1000;
+    }
+
+        .topbar button {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 20px;
+            cursor: pointer;
+            margin-right: 20px;
+        }
+
+    .collapsed-sidebar {
+        width: 0;
+        overflow: hidden;
+    }
+
+    .expanded-content {
+        margin-left: 0 !important;
+    }
+
+    .card {
+        border-radius: 10px;
+    }
+</style>
+
+<div class="topbar">
+    <h2 style="margin-left: 10px;">Dashboard</h2>
+    <button onclick="log-out">☰</button>
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- Sidebar -->
+        <nav class="sidebar" id="sidebar">
+            <div class="position-sticky">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="@Url.Action("Index", "TheLoai")">
+                            <i class="fas fa-list"></i> Xem thể loại
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Index", "Hang")">
+                            <i class="fas fa-box"></i> Xem hàng
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Index", "DonHang")">
+                            <i class="fas fa-shopping-cart"></i> Xem đơn hàng
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("ThongKe", "DoanhThu")">
+                            <i class="fas fa-chart-line"></i> Xem doanh thu
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>

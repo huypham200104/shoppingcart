@@ -12,8 +12,8 @@ namespace ShoppringCart_MVC.Models
      public DbSet<Cart> Carts { get; set; }
      public DbSet<CartItem> CartItems { get; set; }
      public DbSet<Comment> Comments { get; set; }
-     public DbSet<Favorite> favorites { get; set; }
-     public DbSet<Order> orders { get; set; }
-     public DbSet<User> users { get; set; }
+     public DbSet<Favorite> Favorites { get; set; }
+     public DbSet<Order> Orders { get; set; }
+     public DbSet<User> Users { get; set; }
     }
 }
