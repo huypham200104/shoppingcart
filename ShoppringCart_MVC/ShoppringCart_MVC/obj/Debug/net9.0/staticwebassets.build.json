@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9IYg24Jw1a+IeGZ75Dd9TYbMk0d5uvTytLi8uNeBE6Q=",
+  "Hash": "t/G2o71B/Ww+vqjRatuMn4pfzq8aYg6HqDHWAzsNrww=",
   "Source": "ShoppringCart_MVC",
   "BasePath": "_content/ShoppringCart_MVC",
   "Mode": "Default",
@@ -1443,6 +1443,426 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao1.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Ao1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ung6m1yxxh",
+      "Integrity": "JoyRVddF2gXx2j2godSenFJXdJ2lsGR/f1ngMnbZb4Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ao1.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao10.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Ao10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ogn9xrjl6m",
+      "Integrity": "+KOUMaO1P8zzpHFy8I+By8wJkVYKDKfsue/vMKsIBrM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ao10.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao2.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Ao2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kud5uagsag",
+      "Integrity": "pORGDLIJMVK/+V5mux1pZ1Z6ICA0ttGff9jvLbfEZHQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ao2.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao3.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Ao3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uehs1q5a15",
+      "Integrity": "2p/+NsliDV3zCXTkLdItvOoN4FkYbjFAZJBVIDaonXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ao3.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao4.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Ao4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ex1xcungkz",
+      "Integrity": "ArwYK92eillva5IvFcOy95XPD8pf3VOrKKVKU+txKqg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ao4.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao5.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Ao5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0a3s51uzo2",
+      "Integrity": "mGhVLCf8pRozhL0fr7Nyv0vzlHMTuby4LTN8xjKoGuY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ao5.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao6.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Ao6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bg2o39jtbt",
+      "Integrity": "lcb3DvaXrK2nhHUwmMj8dDSIND160zZkJXBItbPEpSM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ao6.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao7.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Ao7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jie48hh9jg",
+      "Integrity": "haG3LYiLcoL/O/ksmtGONRvxpgsdb8SBEH1SvHvl+2I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ao7.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao8.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Ao8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lbszs73578",
+      "Integrity": "IQJ9nH6MavE0XnBi5Gvdf67tdYgFAeZVh5jWBi7o40Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ao8.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao9.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Ao9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3mbtn86j5h",
+      "Integrity": "C5fJtDo1yVxhIo1kXZ8no9nouJjkNzByCIFgqJ+UhuA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ao9.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan1.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Quan1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "64qqvswo89",
+      "Integrity": "SopUnJxDy9bTQRvGomlwx8Gk+ou4i+vXDlNeObf4Y54=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Quan1.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan10.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Quan10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g40q40nwwq",
+      "Integrity": "4IjsipHtoMynC0FuzFy6/GiotW/Ra+EIOv3MyezCoeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Quan10.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan2.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Quan2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2lpar2g3cy",
+      "Integrity": "+lxfJx6IpBrKXbg+hC9LxyEr3KfFVhFhQfubSUrPzSQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Quan2.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan3.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Quan3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t1t4k2mqfz",
+      "Integrity": "ESgyy6QG0BY8PAuiqvHbKHCS+0Fb1jyqgZL8Blc4ANY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Quan3.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan4.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Quan4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kamfdsixnn",
+      "Integrity": "nJvKeTgQQfMg7fT1gtMKvgwYNYB40Siauyb1a7qD0NU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Quan4.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan5.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Quan5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rhadeh5e8a",
+      "Integrity": "X/jXYBXKNdZWnDnd3XZV0dW4RNgsEyLKHJ3Uw12DFdw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Quan5.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan6.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Quan6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "knltl5rd8o",
+      "Integrity": "4GvcMzS8eRkov106tnxidGtPKmmPbOaUZmqjZPciu/8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Quan6.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan7.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Quan7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "am00yx04gp",
+      "Integrity": "IolTTNxDQ+JOJX3p5efz+7UqH8lTdZIX6bqPd1Z3Upg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Quan7.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan8.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Quan8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vs8t3z3l1b",
+      "Integrity": "z5BbQ9E24O5gcb/MwJw5RUbf+7UhhX3tYwCxFlFXjuA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Quan8.jpg"
+    },
+    {
+      "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan9.jpg",
+      "SourceId": "ShoppringCart_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\",
+      "BasePath": "_content/ShoppringCart_MVC",
+      "RelativePath": "images/Quan9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h6666fp9s2",
+      "Integrity": "N2m1x5TxCq+Xtm3l2+Cp+WUgn2UF8Z9X+789DB5EL+I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Quan9.jpg"
     },
     {
       "Identity": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\js\\site.js",
@@ -3320,6 +3740,1646 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao1.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63653"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JoyRVddF2gXx2j2godSenFJXdJ2lsGR/f1ngMnbZb4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JoyRVddF2gXx2j2godSenFJXdJ2lsGR/f1ngMnbZb4Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao1.ung6m1yxxh.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63653"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JoyRVddF2gXx2j2godSenFJXdJ2lsGR/f1ngMnbZb4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ung6m1yxxh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ao1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JoyRVddF2gXx2j2godSenFJXdJ2lsGR/f1ngMnbZb4Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao10.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+KOUMaO1P8zzpHFy8I+By8wJkVYKDKfsue/vMKsIBrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+KOUMaO1P8zzpHFy8I+By8wJkVYKDKfsue/vMKsIBrM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao10.ogn9xrjl6m.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+KOUMaO1P8zzpHFy8I+By8wJkVYKDKfsue/vMKsIBrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ogn9xrjl6m"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ao10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+KOUMaO1P8zzpHFy8I+By8wJkVYKDKfsue/vMKsIBrM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao2.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pORGDLIJMVK/+V5mux1pZ1Z6ICA0ttGff9jvLbfEZHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pORGDLIJMVK/+V5mux1pZ1Z6ICA0ttGff9jvLbfEZHQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao2.kud5uagsag.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pORGDLIJMVK/+V5mux1pZ1Z6ICA0ttGff9jvLbfEZHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kud5uagsag"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ao2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pORGDLIJMVK/+V5mux1pZ1Z6ICA0ttGff9jvLbfEZHQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao3.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2p/+NsliDV3zCXTkLdItvOoN4FkYbjFAZJBVIDaonXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2p/+NsliDV3zCXTkLdItvOoN4FkYbjFAZJBVIDaonXw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao3.uehs1q5a15.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2p/+NsliDV3zCXTkLdItvOoN4FkYbjFAZJBVIDaonXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uehs1q5a15"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ao3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2p/+NsliDV3zCXTkLdItvOoN4FkYbjFAZJBVIDaonXw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao4.ex1xcungkz.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ArwYK92eillva5IvFcOy95XPD8pf3VOrKKVKU+txKqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ex1xcungkz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ao4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ArwYK92eillva5IvFcOy95XPD8pf3VOrKKVKU+txKqg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao4.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ArwYK92eillva5IvFcOy95XPD8pf3VOrKKVKU+txKqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ArwYK92eillva5IvFcOy95XPD8pf3VOrKKVKU+txKqg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao5.0a3s51uzo2.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGhVLCf8pRozhL0fr7Nyv0vzlHMTuby4LTN8xjKoGuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0a3s51uzo2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ao5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGhVLCf8pRozhL0fr7Nyv0vzlHMTuby4LTN8xjKoGuY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao5.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGhVLCf8pRozhL0fr7Nyv0vzlHMTuby4LTN8xjKoGuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGhVLCf8pRozhL0fr7Nyv0vzlHMTuby4LTN8xjKoGuY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao6.bg2o39jtbt.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lcb3DvaXrK2nhHUwmMj8dDSIND160zZkJXBItbPEpSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bg2o39jtbt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ao6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lcb3DvaXrK2nhHUwmMj8dDSIND160zZkJXBItbPEpSM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao6.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lcb3DvaXrK2nhHUwmMj8dDSIND160zZkJXBItbPEpSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lcb3DvaXrK2nhHUwmMj8dDSIND160zZkJXBItbPEpSM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao7.jie48hh9jg.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"haG3LYiLcoL/O/ksmtGONRvxpgsdb8SBEH1SvHvl+2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jie48hh9jg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ao7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-haG3LYiLcoL/O/ksmtGONRvxpgsdb8SBEH1SvHvl+2I="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao7.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"haG3LYiLcoL/O/ksmtGONRvxpgsdb8SBEH1SvHvl+2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-haG3LYiLcoL/O/ksmtGONRvxpgsdb8SBEH1SvHvl+2I="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao8.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IQJ9nH6MavE0XnBi5Gvdf67tdYgFAeZVh5jWBi7o40Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IQJ9nH6MavE0XnBi5Gvdf67tdYgFAeZVh5jWBi7o40Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao8.lbszs73578.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IQJ9nH6MavE0XnBi5Gvdf67tdYgFAeZVh5jWBi7o40Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lbszs73578"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ao8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IQJ9nH6MavE0XnBi5Gvdf67tdYgFAeZVh5jWBi7o40Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao9.3mbtn86j5h.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C5fJtDo1yVxhIo1kXZ8no9nouJjkNzByCIFgqJ+UhuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3mbtn86j5h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Ao9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C5fJtDo1yVxhIo1kXZ8no9nouJjkNzByCIFgqJ+UhuA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Ao9.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Ao9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C5fJtDo1yVxhIo1kXZ8no9nouJjkNzByCIFgqJ+UhuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C5fJtDo1yVxhIo1kXZ8no9nouJjkNzByCIFgqJ+UhuA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan1.64qqvswo89.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SopUnJxDy9bTQRvGomlwx8Gk+ou4i+vXDlNeObf4Y54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "64qqvswo89"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Quan1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SopUnJxDy9bTQRvGomlwx8Gk+ou4i+vXDlNeObf4Y54="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan1.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SopUnJxDy9bTQRvGomlwx8Gk+ou4i+vXDlNeObf4Y54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SopUnJxDy9bTQRvGomlwx8Gk+ou4i+vXDlNeObf4Y54="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan10.g40q40nwwq.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4IjsipHtoMynC0FuzFy6/GiotW/Ra+EIOv3MyezCoeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g40q40nwwq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Quan10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4IjsipHtoMynC0FuzFy6/GiotW/Ra+EIOv3MyezCoeU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan10.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4IjsipHtoMynC0FuzFy6/GiotW/Ra+EIOv3MyezCoeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4IjsipHtoMynC0FuzFy6/GiotW/Ra+EIOv3MyezCoeU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan2.2lpar2g3cy.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+lxfJx6IpBrKXbg+hC9LxyEr3KfFVhFhQfubSUrPzSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2lpar2g3cy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Quan2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+lxfJx6IpBrKXbg+hC9LxyEr3KfFVhFhQfubSUrPzSQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan2.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+lxfJx6IpBrKXbg+hC9LxyEr3KfFVhFhQfubSUrPzSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+lxfJx6IpBrKXbg+hC9LxyEr3KfFVhFhQfubSUrPzSQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan3.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ESgyy6QG0BY8PAuiqvHbKHCS+0Fb1jyqgZL8Blc4ANY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ESgyy6QG0BY8PAuiqvHbKHCS+0Fb1jyqgZL8Blc4ANY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan3.t1t4k2mqfz.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ESgyy6QG0BY8PAuiqvHbKHCS+0Fb1jyqgZL8Blc4ANY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t1t4k2mqfz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Quan3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ESgyy6QG0BY8PAuiqvHbKHCS+0Fb1jyqgZL8Blc4ANY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan4.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nJvKeTgQQfMg7fT1gtMKvgwYNYB40Siauyb1a7qD0NU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nJvKeTgQQfMg7fT1gtMKvgwYNYB40Siauyb1a7qD0NU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan4.kamfdsixnn.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nJvKeTgQQfMg7fT1gtMKvgwYNYB40Siauyb1a7qD0NU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kamfdsixnn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Quan4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nJvKeTgQQfMg7fT1gtMKvgwYNYB40Siauyb1a7qD0NU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan5.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X/jXYBXKNdZWnDnd3XZV0dW4RNgsEyLKHJ3Uw12DFdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X/jXYBXKNdZWnDnd3XZV0dW4RNgsEyLKHJ3Uw12DFdw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan5.rhadeh5e8a.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X/jXYBXKNdZWnDnd3XZV0dW4RNgsEyLKHJ3Uw12DFdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rhadeh5e8a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Quan5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X/jXYBXKNdZWnDnd3XZV0dW4RNgsEyLKHJ3Uw12DFdw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan6.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4GvcMzS8eRkov106tnxidGtPKmmPbOaUZmqjZPciu/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4GvcMzS8eRkov106tnxidGtPKmmPbOaUZmqjZPciu/8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan6.knltl5rd8o.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4GvcMzS8eRkov106tnxidGtPKmmPbOaUZmqjZPciu/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "knltl5rd8o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Quan6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4GvcMzS8eRkov106tnxidGtPKmmPbOaUZmqjZPciu/8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan7.am00yx04gp.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IolTTNxDQ+JOJX3p5efz+7UqH8lTdZIX6bqPd1Z3Upg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "am00yx04gp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Quan7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IolTTNxDQ+JOJX3p5efz+7UqH8lTdZIX6bqPd1Z3Upg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan7.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IolTTNxDQ+JOJX3p5efz+7UqH8lTdZIX6bqPd1Z3Upg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IolTTNxDQ+JOJX3p5efz+7UqH8lTdZIX6bqPd1Z3Upg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan8.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z5BbQ9E24O5gcb/MwJw5RUbf+7UhhX3tYwCxFlFXjuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z5BbQ9E24O5gcb/MwJw5RUbf+7UhhX3tYwCxFlFXjuA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan8.vs8t3z3l1b.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z5BbQ9E24O5gcb/MwJw5RUbf+7UhhX3tYwCxFlFXjuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs8t3z3l1b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Quan8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z5BbQ9E24O5gcb/MwJw5RUbf+7UhhX3tYwCxFlFXjuA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan9.h6666fp9s2.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N2m1x5TxCq+Xtm3l2+Cp+WUgn2UF8Z9X+789DB5EL+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h6666fp9s2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Quan9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N2m1x5TxCq+Xtm3l2+Cp+WUgn2UF8Z9X+789DB5EL+I="
+        }
+      ]
+    },
+    {
+      "Route": "images/Quan9.jpg",
+      "AssetFile": "C:\\Workplace\\Hutech\\shoppingcart\\ShoppringCart_MVC\\ShoppringCart_MVC\\wwwroot\\images\\Quan9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N2m1x5TxCq+Xtm3l2+Cp+WUgn2UF8Z9X+789DB5EL+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 06:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N2m1x5TxCq+Xtm3l2+Cp+WUgn2UF8Z9X+789DB5EL+I="
         }
       ]
     },
